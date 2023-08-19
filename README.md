@@ -1,8 +1,8 @@
 # Travolio
 
-Travolio is a web app that helps you plan your tour within your budget. It provides you with all the necessary costs, including airfare, accommodation, and meals. It also gives you information on the country's famous meals, weather forecast, and currency converter.
-
 <img src="./src/Assets/Travolio.png" alt="Home">
+
+Travolio is a web app that helps you plan your tour within your budget. It provides you with all the necessary costs, including airfare, accommodation, and meals. It also gives you information on the country's famous meals, weather forecast, and currency converter.
 
 ## Live Link
 
